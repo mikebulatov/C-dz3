@@ -1,0 +1,15 @@
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.csproj.AssemblyReference.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.GeneratedMSBuildEditorConfig.editorconfig
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.AssemblyInfoInputs.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.AssemblyInfo.cs
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.csproj.CoreCompileInputs.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/bin/Debug/net7.0/zd19
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/bin/Debug/net7.0/zd19.deps.json
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/bin/Debug/net7.0/zd19.runtimeconfig.json
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/bin/Debug/net7.0/zd19.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/bin/Debug/net7.0/zd19.pdb
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/refint/zd19.dll
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.pdb
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/zd19.genruntimeconfig.cache
+/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/Debug/net7.0/ref/zd19.dll
