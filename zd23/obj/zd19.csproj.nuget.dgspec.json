@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/zd19.csproj": {}
+    "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd23/zd19.csproj": {}
   },
   "projects": {
-    "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/zd19.csproj": {
+    "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd23/zd19.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/zd19.csproj",
+        "projectUniqueName": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd23/zd19.csproj",
         "projectName": "zd19",
-        "projectPath": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/zd19.csproj",
+        "projectPath": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd23/zd19.csproj",
         "packagesPath": "/home/mike/.nuget/packages/",
-        "outputPath": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd19/obj/",
+        "outputPath": "/home/mike/Рабочий стол/c#1/Seminar1/C-dz3/zd23/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mike/.nuget/NuGet/NuGet.Config"
